@@ -1,0 +1,18 @@
+{
+    "root": "./docs",
+    "author": "openSUSE 中文社区",
+    "language": "zh",
+    "plugins": [
+        "github",
+        "github-edit"
+    ],
+    "pluginsConfig": {
+        "github": {
+            "url": "https://github.com/openSUSE-zh/guide"
+        },
+        "github-edit": {
+            "repo": "openSUSE-zh/guide",
+            "branch": "master"
+        }
+    }
+}
